@@ -13,6 +13,7 @@ Challenge created by: <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO
 - Lint Stage
 - Jest
 - React Testing Library
+- Husky
 
 ## What I learn!?
 
